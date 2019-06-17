@@ -1,0 +1,6 @@
+﻿  DateTime.cpp
+  Logger.cpp
+  SingletonLogger.cpp
+  SingletonLoggerFactory.cpp
+  Generating Code...
+  Logger.vcxproj -> C:\Users\zidon\OneDrive\Learning\CSE687\CSE687_Project_4\CSE687_Project_4\Debug\Logger.lib

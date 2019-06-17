@@ -1,0 +1,6 @@
+﻿  Translater.cpp
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Translater.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Translater.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Message.lib(Message.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Translater.vcxproj -> C:\Users\zidon\OneDrive\Learning\CSE687\CSE687_Project_4\CSE687_Project_4\Debug\Translater.dll

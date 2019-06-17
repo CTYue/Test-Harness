@@ -1,0 +1,9 @@
+﻿  Comm.cpp
+C:\Users\zidon\OneDrive\Learning\CSE687\CSE687_Project_4\CSE687_Project_4\MsgPassingComm\Comm.cpp(163,28): warning C4244:  'argument': conversion from 'std::streamsize' to 'const unsigned int', possible loss of data
+C:\Users\zidon\OneDrive\Learning\CSE687\CSE687_Project_4\CSE687_Project_4\MsgPassingComm\Comm.cpp(207,21): warning C4244:  'argument': conversion from 'std::streamsize' to 'size_t', possible loss of data
+C:\Users\zidon\OneDrive\Learning\CSE687\CSE687_Project_4\CSE687_Project_4\MsgPassingComm\Comm.cpp(210,18): warning C4244:  'argument': conversion from 'std::streamsize' to 'size_t', possible loss of data
+C:\Users\zidon\OneDrive\Learning\CSE687\CSE687_Project_4\CSE687_Project_4\MsgPassingComm\Comm.cpp(232,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\zidon\OneDrive\Learning\CSE687\CSE687_Project_4\CSE687_Project_4\MsgPassingComm\Comm.cpp(220,15): warning C4101:  'rwBuffer': unreferenced local variable
+C:\Users\zidon\OneDrive\Learning\CSE687\CSE687_Project_4\CSE687_Project_4\MsgPassingComm\Comm.cpp(290,30): warning C4244:  'argument': conversion from 'std::streamsize' to 'const unsigned int', possible loss of data
+C:\Users\zidon\OneDrive\Learning\CSE687\CSE687_Project_4\CSE687_Project_4\MsgPassingComm\Comm.cpp(338,19): warning C4244:  'argument': conversion from 'std::streamsize' to 'size_t', possible loss of data
+  MsgPassingComm.vcxproj -> C:\Users\zidon\OneDrive\Learning\CSE687\CSE687_Project_4\CSE687_Project_4\Debug\MsgPassingComm.lib

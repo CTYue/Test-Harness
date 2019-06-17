@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol _main
+C:\Users\yuzidong\Desktop\CSE687_OOD\Ammars_DllLoader\Ammars_DllLoader\Release\DllLoader.exe : fatal error LNK1120: 1 unresolved externals

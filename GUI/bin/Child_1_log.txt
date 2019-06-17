@@ -1,0 +1,26 @@
+
+==================Demonstrate Req #5 and #7====================
+      Requirements review: 
+      Req #5: logging test report and send test result back to 
+              client server (who sent the test request) 
+      Req #7: providing an automated unit test suit that executes
+              all the test items in four test drivers, as we did 
+              in Project 2.
+------------------------------------------------
+      Testing time: Thu Dec  6 20:25:20 2018
+      Log path: ../
+      Tester sending msg: ready
+-------------------------------------------------
+      Tester localhost:8081 received msg: TQ
+------------------Message info-------------------
+      Message name: TQ
+      Message command: testReq
+      Message author: ZD
+      Message from: localhost:8099
+      Message file: 
+
+------------------Test task starts-------------------
+--------------------------------------------------------
+       Send logging result back to client...
+
+------------------------Test Ends-----------------------

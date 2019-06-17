@@ -1,0 +1,3 @@
+﻿  Child.cpp
+C:\Users\zidon\OneDrive\Learning\CSE687\CSE687_Project_4\CSE687_Project_4\Child\Child.cpp(115,18): warning C4018:  '<': signed/unsigned mismatch
+  Child.vcxproj -> C:\Users\zidon\OneDrive\Learning\CSE687\CSE687_Project_4\CSE687_Project_4\Debug\Child.exe
